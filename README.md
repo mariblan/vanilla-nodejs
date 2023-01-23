@@ -2,5 +2,5 @@
 
 In main:
 
-- Run npm init -y to initialize the project with a package.json file.
-- Create a index.js file.
+- Created function that logs "hello" into the console.
+- Run the function and then in the console write the command node index.js
